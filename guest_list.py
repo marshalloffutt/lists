@@ -3,6 +3,9 @@ guests = ["Abe Vigoda", "Bobby McFerrin", "Bjorn Borg"]
 
 print(guests)
 
+# 3-9 Print length of guests list
+print(len(guests))
+
 abe_invite = "Hi " + guests[0] + ", would you join me for dinner?"
 bobby_invite = guests[1] + ", you are cordially invited to my dinner party."
 bjorn_invite = "Hej " + guests[2] + ", skulle du gå med mig till middag?"
